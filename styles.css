@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  background-color: #011F3F;
+}
+
+#level-title {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 3rem;
+  margin:  5%;
+  color: #FEF2BF;
+}
+
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 10px solid black;
+  border-radius: 20%;
+  cursor: pointer; /* Adicionando um ponteiro de clique para indicar que é interativo */
+  transition: transform 0.1s ease, background-color 0.1s ease; /* Suaviza a transição ao pressionar */
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+/* Efeito de pressionamento do botão */
+.pressed {
+  transform: scale(0.80); /* Encolhe o botão para 80% do tamanho */
+  background-color: grey; /* Muda a cor de fundo para cinza ao pressionar */
+  box-shadow: 0 0 20px white; /* Sombra para dar um efeito de profundidade */
+}
+
+/* Opcional: animação de transição suave */
+.pressed:active {
+  transform: scale(0.80); /* Mantém o efeito de escala */
+}
+
