@@ -8,7 +8,7 @@ Este projeto é uma recriação do clássico jogo de memória Simon, desenvolvid
 Acesse o jogo online: https://Camiloruas.github.io/simon-game-challenge/
 Precione a tecla [A] e inicie o jogo.
 Observe a sequência de cores (vermelho, azul, verde, amarelo) que o jogo apresenta.
-ele vai precionar a primiera tecla e você na sequencia você irá repetir clicando com o mause na mesma cor sugerida.
+ele vai precionar a primiera tecla e você na sequencia irá repetir clicando com o mause na mesma cor sugerida.
 Clique nas cores na mesma ordem da sequência.
 A cada rodada, a sequência aumenta, tornando o jogo mais desafiador!
 
