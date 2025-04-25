@@ -11,8 +11,8 @@ Observe a sequência de cores (vermelho, azul, verde, amarelo) que o jogo aprese
 ele vai precionar a primiera tecla e você na sequencia você irá repetir clicando com o mause na mesma cor sugerida.
 Clique nas cores na mesma ordem da sequência.
 A cada rodada, a sequência aumenta, tornando o jogo mais desafiador!
-Executando Localmente
-Se você quiser rodar o jogo no seu computador:
+
+
 
 Tecnologias Utilizadas
 HTML: Estrutura da página.
