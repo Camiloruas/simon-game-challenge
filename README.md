@@ -30,7 +30,7 @@ Acesse o jogo online: [Simon Game Challenge](https://Camiloruas.github.io/simon-
 
 
 
-## 📁 Estrutura do Projeto
+##  Estrutura do Projeto
 
 - `index.html`: Página principal do jogo.
 - `styles.css`: Estilos visuais do jogo.
@@ -39,13 +39,13 @@ Acesse o jogo online: [Simon Game Challenge](https://Camiloruas.github.io/simon-
 
 
 
-## 🤝 Contribuições
+##  Contribuições
 
 Sinta-se à vontade para contribuir! Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
 
 
 
-## 💼 Créditos
+##  Créditos
 
 Desenvolvido por **Camilo Ruas**.
 
