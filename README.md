@@ -2,7 +2,7 @@ Aqui está o texto corrigido e melhorado:
 
 ---
 
-# 🎮 Simon Game Challenge
+# Simon Game Challenge
 
 ## Descrição
 
@@ -18,9 +18,7 @@ Acesse o jogo online: [Simon Game Challenge](https://Camiloruas.github.io/simon-
 4. Clique nas cores na mesma ordem da sequência.
 5. A cada rodada, a sequência aumenta, tornando o jogo mais desafiador!
 
-
-
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização dos botões e layout.
@@ -28,24 +26,18 @@ Acesse o jogo online: [Simon Game Challenge](https://Camiloruas.github.io/simon-
 - **jQuery**: Usado para facilitar a manipulação do DOM e eventos.
 - **Sons**: Arquivos de áudio na pasta `sounds/` para feedback sonoro.
 
-
-
-##  Estrutura do Projeto
+## Estrutura do Projeto
 
 - `index.html`: Página principal do jogo.
 - `styles.css`: Estilos visuais do jogo.
 - `game.js`: Lógica principal do jogo, incluindo geração de sequências aleatórias e verificação de cliques.
 - `sounds/`: Pasta com os arquivos de áudio usados no jogo.
 
-
-
-##  Contribuições
+## Contribuições
 
 Sinta-se à vontade para contribuir! Faça um fork do repositório, crie uma branch para suas alterações e envie um pull request.
 
-
-
-##  Créditos
+## Créditos
 
 Desenvolvido por **Camilo Ruas**.
 
